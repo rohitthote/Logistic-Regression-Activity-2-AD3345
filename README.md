@@ -131,4 +131,7 @@ logistic-regression/
 
 B.Tech – Artificial Intelligence and Data Science
 
-GitHub: [rohitthote30](https://github.com/rohitthote)
+GitHub: [rohitthote](https://github.com/rohitthote)
+
+**Faculty GitHub:** 
+[https://github.com/complexiota]
