@@ -37,6 +37,8 @@ Since Logistic Regression is a classification algorithm, the continuous median h
 
 **Dataset:** California Housing Dataset
 
+https://www.kaggle.com/datasets/shraddha4ever20/california-housing-dataset
+
 The dataset contains information about housing in California.
 
 ### Input Features
